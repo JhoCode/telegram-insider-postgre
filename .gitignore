@@ -1,0 +1,16 @@
+# Node.js dependencies
+/node_modules
+
+# Environment configuration
+/.env
+.env.local
+.env.*.local
+!.env.example
+
+# Editor files
+*.swp
+*.swo
+*.swn
+.DS_Store
+.idea/
+.vscode/
